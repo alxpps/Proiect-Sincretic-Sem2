@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodNation", "FloodNation\FloodNation.csproj", "{9579DBCE-5913-49C8-9524-EEADA7E51435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9579DBCE-5913-49C8-9524-EEADA7E51435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9579DBCE-5913-49C8-9524-EEADA7E51435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9579DBCE-5913-49C8-9524-EEADA7E51435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9579DBCE-5913-49C8-9524-EEADA7E51435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F30ECD-B4F1-419D-8C06-A4CCDD8E898C}
+	EndGlobalSection
+EndGlobal
